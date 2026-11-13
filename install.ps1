@@ -1,4 +1,4 @@
-﻿﻿# Installe (ou met à jour) MateEngine avec les danses et modèles de richerDesktopCompagnon :
+﻿# Installe (ou met à jour) MateEngine avec les danses et modèles de richerDesktopCompagnon :
 #   1. télécharge les danses et modèles VRM depuis la dernière release de ce dépôt (dances\, vrm\) ;
 #   2. télécharge la dernière release de MateEngine depuis GitHub (MateEngine\) ;
 #   3. place dans le dossier CustomDances de l'application une jonction NTFS vers dances\.
