@@ -42,6 +42,7 @@ Prévoir environ 2,5 Go libres supplémentaires pendant l'installation (archives
 4. Pour chaque modèle à charger : cliquer en bas sur **VRM/ME**, puis sélectionner le fichier `.vrm` dans `vrm\`.
 
 > **Note :** dans la configuration générale, section **Movement**, l'option **Husbando** adapte les animations aux modèles masculins. Elle est désactivée par défaut.
+
 > **Note :** dans la configuration générale, section **Debug**, l'option **Mem. Optmizations** réduit drastiquement la consommation de la ram. Elle est désactivée par défaut.
 
 ## Origine des modèles
