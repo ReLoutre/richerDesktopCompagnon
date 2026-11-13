@@ -1,0 +1,6 @@
+# Contenu téléchargé par install.ps1 (application, danses et modèles publiés en assets de release)
+/MateEngine/
+/dances/
+/vrm/
+/.content_version
+*.zip
